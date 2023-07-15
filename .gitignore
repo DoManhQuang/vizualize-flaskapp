@@ -1,0 +1,5 @@
+static
+venv
+.idea
+fas/utils/__pycache__/
+fas/__pycache__/
